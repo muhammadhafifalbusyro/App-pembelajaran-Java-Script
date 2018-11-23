@@ -1351,7 +1351,7 @@ const styles=StyleSheet.create({
     HeaderModal:{
         alignItems:'flex-end',
         width:'100%',
-        padding:5
+        padding:6
     }
 })
 export default Home
